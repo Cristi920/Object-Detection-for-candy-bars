@@ -109,9 +109,9 @@ yolo_detect.py
 Aplicație de detecție în timp real.
 
 Moduri:
-1 = video
-2 = imagine
-3 = webcam
+1 = video;
+2 = imagine;
+3 = webcam;
 
 Funcții:
 - bounding boxes curate
@@ -124,13 +124,13 @@ Funcții:
 Controale tastatură
 ==================================================
 
-1 → energie
-2 → grăsimi
-3 → glucide
-4 → proteine
-5 → sare
-P → screenshot
-Q → ieșire
+1 → energie;
+2 → grăsimi;
+3 → glucide;
+4 → proteine;
+5 → sare;
+P → screenshot;
+Q → ieșire;
 
 
 Note importante

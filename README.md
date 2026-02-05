@@ -22,30 +22,6 @@ Python, Ultralytics YOLO, PyTorch, OpenCV,label-studio
 Pentru a genera datasetul necesar,data.zip, putem apela la label-studio care oferă ușurință în a crea label-urile necesare pentru imaginile care le avem , 
 pentru al rula în Visual-Code rulăm comanda următoare în Terminal, label-studio
 
-Structura proiectului
-==================================================
-
-project/
-│
-├── prepare_data.py
-├── train_val_split.py
-├── create_data_yaml.py
-├── train.py
-├── test_model.py
-├── yolo_detect.py
-│
-├── data.zip
-├── custom_data/
-├── data/
-│   ├── train/
-│   ├── validation/
-│   └── data.yaml
-│
-├── classes.txt
-├── nutrition_value.json
-└── README.txt
-
-
 Cerințe
 ==================================================
 

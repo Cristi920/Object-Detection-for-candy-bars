@@ -1,0 +1,166 @@
+{
+  "Albeni": {
+    "Declaratie nutritionala / 100g": {
+      "Valoarea energetica": "2145kJ/513kcal",
+      "Grasimi": "26g",
+      "din care acizi grasi saturati": "14g",
+      "Glucide": "60g",
+      "din care zaharuri": "40g",
+      "Proteine": "7,5g",
+      "Sare": "0.70g"
+    }
+  },
+
+  
+
+  "Dare": {
+    "Declaratie nutritionala / 100g": {
+      "Valoarea energetica": "2155kJ/516kcal",
+      "Grasimi": "29g",
+      "din care acizi grasi saturati": "14g",
+      "Glucide": "54g",
+      "din care zaharuri": "44g",
+      "Proteine": "8,9g",
+      "Sare": "0,45g"
+    }
+  },
+
+
+
+  "Halley": {
+    "Declaratie nutritionala / 100g": {
+      "Valoarea energetica": "1843kJ/437kcal",
+      "Grasimi": "16g",
+      "din care acizi grasi saturati": "9g",
+      "Glucide": "65g",
+      "din care zaharuri": "42g",
+      "Proteine": "6,4g",
+      "Sare": "0,38g"
+    }
+  },
+
+
+
+  "Lion": {
+    "Declaratie nutritionala / 100g": {
+      "Valoarea energetica": "2088kJ/499kcal",
+      "Grasimi": "25,3g",
+      "din care acizi grasi saturati": "10,9g",
+      "Glucide": "58,2g",
+      "din care zaharuri": "43,5g",
+      "Proteine": "8,2g",
+      "Sare": "0,69g"
+    }
+  },
+
+
+
+  "Magura red": {
+    "Declaratie nutritionala / 100g": {
+      "Valoarea energetica": "1713kJ/409kcal",
+      "Grasimi": "19g",
+      "din care acizi grasi saturati": "10.,5g",
+      "Glucide": "55g",
+      "din care zaharuri": "40g",
+      "Proteine": "3,3g",
+      "Sare": "0,55g"
+    }
+  },
+
+
+
+  "Magura white": {
+    "Declaratie nutritionala / 100g": {
+      "Valoarea energetica": "1841kJ/440kcal",
+      "Grasimi": "23g",
+      "din care acizi grasi saturati": "12,6g",
+      "Glucide": "53g",
+      "din care zaharuri": "38g",
+      "Proteine": "4g",
+      "Sare": "0,5g"
+    }
+  },
+
+
+
+  "Mars": {
+    "Declaratie nutritionala / 100g": {
+      "Valoarea energetica": "1860kJ/442kcal",
+      "Grasimi": "16g",
+      "din care acizi grasi saturati": "7,5g",
+      "Glucide": "70g",
+      "din care zaharuri": "61g",
+      "Proteine": "4,5g",
+      "Sare": "0,67g"
+    }
+  },
+
+
+
+  "Muzli": {
+    "Declaratie nutritionala / 100g": {
+      "Valoarea energetica": "1553kJ/372kcal",
+      "Grasimi": "13,4g",
+      "din care acizi grasi saturati": "9,4g",
+      "Glucide": "69,5g",
+      "din care zaharuri": "4,6g",
+      "Proteine": "5,7g",
+      "Sare": "0,34g"
+    }
+  },
+
+
+
+  "Snickers": {
+    "Declaratie nutritionala / 100g": {
+      "Valoarea energetica": "2237kJ/536kcal",
+      "Grasimi": "31g",
+      "din care acizi grasi saturati": "11g",
+      "Glucide": "63g",
+      "din care zaharuri": "45g",
+      "Proteine": "11g",
+      "Sare": "0,58g"
+    }
+  },
+
+
+
+  "ROM": {
+    "Declaratie nutritionala / 100g": {
+      "Valoarea energetica": "2015kJ/481kcal",
+      "Grasimi": "23g",
+      "din care acizi grasi saturati": "14g",
+      "Glucide": "65g",
+      "din care zaharuri": "60g",
+      "Proteine": "2,2g",
+      "Sare": "0,04g"
+    }
+},
+
+
+
+  "Twix": {
+    "Declaratie nutritionala / 100g": {
+      "Valoarea energetica": "2064kJ/493kcal",
+      "Grasimi": "24g",
+      "din care acizi grasi saturati": "14g",
+      "Glucide": "65g",
+      "din care zaharuri": "48g",
+      "Proteine": "4,5g",
+      "Sare": "0,39g"
+    }
+  },
+
+
+  "Mentos": {
+    "Declaratie nutritionala / 100g": {
+      "Valoarea energetica": "1648kJ/388kcal",
+      "Grasimi": "1,9g",
+      "din care acizi grasi saturati": "1,7g",
+      "Glucide": "92g",
+      "din care zaharuri": "69g",
+      "Proteine": "0g",
+      "Sare": "0,1g"
+    }
+  }
+}

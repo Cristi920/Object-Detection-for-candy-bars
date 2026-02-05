@@ -22,6 +22,9 @@ Python, Ultralytics YOLO, PyTorch, OpenCV,label-studio
 Pentru a genera datasetul necesar,data.zip, putem apela la label-studio care oferă ușurință în a crea label-urile necesare pentru imaginile care le avem , 
 pentru al rula în Visual-Code rulăm comanda următoare în Terminal, label-studio
 
+Dataset download link:https://drive.google.com/file/d/1V5-Ope5TBR6dyxHnRKW0KBDkTcZBE-XH/view?usp=drive_link
+
+
 Cerințe
 ==================================================
 
